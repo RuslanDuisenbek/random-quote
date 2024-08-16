@@ -1,0 +1,9 @@
+.actions {
+  display: flex;
+  justify-content: space-between;
+  height: 30%;
+}
+.links {
+  display: flex;
+  gap: 5px;
+}

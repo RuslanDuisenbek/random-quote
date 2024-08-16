@@ -1,0 +1,13 @@
+.quotes_container {
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+}
+.quote {
+  display: flex;
+  align-items: center;
+}
+.authors {
+  align-self: flex-end;
+  font-size: 16px;
+}
